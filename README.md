@@ -1,0 +1,1 @@
+Multi container project using redis, postgres, react, and express to learn k8s as a part of Stephen Grider's Docker and Kubernetes course https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/
