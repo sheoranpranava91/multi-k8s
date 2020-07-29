@@ -17,5 +17,6 @@ spec:
       - http01:
           ingressClass: nginx
         domains:
+          # Address of your website
           - k8s-multi.com
           - www.k8s-multi.com
